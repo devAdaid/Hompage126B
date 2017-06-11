@@ -9,6 +9,7 @@ description: Xizhi's Ideas & Blogs
 
 #baseurl: "/Hompage126B/" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
+site: https://miru2533.github.io/Hompage126B/
 # twitter_username: jekyllrb
 github_username: LiXizhi
 permalink: /Hompage126B/:year/:month/:day/:title/
