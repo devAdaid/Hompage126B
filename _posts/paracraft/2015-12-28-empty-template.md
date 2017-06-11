@@ -7,3 +7,7 @@ categories: paracraft
 ## Empty diary template
 
 Empty post template
+
+```markdown
+test
+```
